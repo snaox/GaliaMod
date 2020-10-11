@@ -1,2 +1,2 @@
 # GaliaMod
-A Mindustry mod in Development 
+Mindustry mod in Development 
